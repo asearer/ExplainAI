@@ -3,7 +3,8 @@
 
 ![ExplainAI Logo](assets/logo.png)
 
-[![Build Status](https://github.com/asearer/ExplainAI/actions/workflows/python-app.yml/badge.svg)](https://github.com/asearer/ExplainAI/actions/workflows/python-app.yml)
+![Build Status](https://github.com/asearer/ExplainAI/actions/workflows/python-ci.yml/badge.svg)
+
 ![Active Development](https://img.shields.io/badge/active%20development-yes-blue)
 
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue)](https://www.python.org/)
